@@ -3,13 +3,13 @@ body {
     background: rgb(136, 135, 135);
 }
 header {
-    border-bottom: solid 2px rgb(226, 17, 10);
+    border-bottom: solid 2px rgb(10, 10, 10);
     padding: 10px;
     font-size: 32px;
     color: rgb(255, 255, 255);
 }
 section {
-    background: rgb(255, 8, 0);
+    background: rgb(136, 135, 135);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
